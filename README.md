@@ -11,9 +11,11 @@ Je suis un développeur passionné par la technologie et toujours prêt à appre
 
 ## Mes Statistiques
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckGalinier&layout=compact&theme=shadow_blue)](https://github.com/FranckGalinier/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckGalinier&theme=shadow_blue&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckGalinier&layout=donut-vertical&theme=shadow_blue)](https://github.com/FranckGalinier/github-readme-stats)
+
+
 
 
 ## Mes compétences
