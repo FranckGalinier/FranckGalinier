@@ -19,17 +19,16 @@ Voici les diffèrentes outils que j'utilise :
 
 
 <h2 align="center">Mes Statistiques</h2>
-<div style="flex">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=FranckGalinier&theme=tokyonight&hide_border=true&border_radius=50&show_icons=true">
     <img src="https://streak-stats.demolab.com?user=FranckGalinier&theme=tokyonight&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)">
-</div>
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranckGalinier&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=50" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranckGalinier&layout=compact&theme=tokyonight&hide_border=true&border_radius=50">
 </p>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=FranckGalinier&theme=tokyonight">
 </div>
-
+</
 
 
