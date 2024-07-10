@@ -1,4 +1,4 @@
-## À propos de moi
+<h1 align="center"> À propos de moi</h1>
 
 Je suis un développeur passionné par la technologie et toujours prêt à apprendre de nouvelles choses. J'ai une expérience en développement web, mobile.
 
@@ -7,22 +7,28 @@ Je suis un développeur passionné par la technologie et toujours prêt à appre
 - 💬 Demandez-moi n'importe quoi sur PHP.
 - 📫 Comment me joindre: fgalinier51@gmail.com
 - ⚡ Fun fact: J'aime le café ☕ et le tennis .
+- 🌐 Ma page web : https://franckgalinier.com
+
+Voici les diffèrentes outils que j'utilise :
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,html,css,js,bootstrap,tailwind,linux,mongodb,mysql,notion,react,symfony,vscode,webpack,window" />
+  </a>
+</p>
 
 
-## Mes Statistiques
+<h2 align="center">Mes Statistiques</h2>
+<div style="flex">
+    <img src="https://github-readme-stats.vercel.app/api?username=FranckGalinier&theme=tokyonight&hide_border=true&border_radius=50&show_icons=true">
+    <img src="https://streak-stats.demolab.com?user=FranckGalinier&theme=tokyonight&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)">
+</div>
+<br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranckGalinier&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=50" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranckGalinier&theme=shadow_blue&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckGalinier&layout=donut-vertical&theme=shadow_blue)](https://github.com/FranckGalinier/github-readme-stats)
 
 
 
 
-## Mes compétences
-
-```python
-class Skills:
-    languages = ['HTML', 'CSS', 'PHP', 'JavaScript']
-    frameworks = ['React', 'Symfony', 'Bootstrap']
-    databases = ['MySQL', 'MongoDB']
-    misc = ['Docker','lando']```
