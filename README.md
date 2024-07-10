@@ -1,16 +1,20 @@
-## Hi there 👋
+## À propos de moi
 
-<!--
-**FranckGalinier/FranckGalinier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un développeur passionné par la technologie et toujours prêt à apprendre de nouvelles choses. J'ai une expérience en développement web, mobile.
 
-Here are some ideas to get you started:
+- 🔭 Je suis actuellement en formation à l'IDEM en tant que développeur web et web mobile.
+- 🌱 J'apprends actuellement à créer un site de dépannage informatique avec Symfony/Docker.
+- 💬 Demandez-moi n'importe quoi sur PHP.
+- 📫 Comment me joindre: fgalinier51@gmail.com
+- ⚡ Fun fact: J'aime le café ☕ et le tennis .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes compétences
+
+```python
+class Skills:
+    languages = ['HTML', 'CSS', 'PHP', 'JavaScript']
+    frameworks = ['React', 'Symfony', 'Bootstrap']
+    databases = ['MySQL', 'MongoDB']
+    misc = ['Docker','lando']
+
+
