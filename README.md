@@ -27,8 +27,9 @@ Voici les diffèrentes outils que j'utilise :
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranckGalinier&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=50" />
 </p>
-
-
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=FranckGalinier&theme=tokyonight">
+</div>
 
 
 
