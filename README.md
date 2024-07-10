@@ -8,6 +8,12 @@ Je suis un développeur passionné par la technologie et toujours prêt à appre
 - 📫 Comment me joindre: fgalinier51@gmail.com
 - ⚡ Fun fact: J'aime le café ☕ et le tennis .
 
+
+## Mes Statistiques
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranckGalinier&layout=compact)](https://github.com/FranckGalinier/github-readme-stats)
+
+
 ## Mes compétences
 
 ```python
@@ -15,6 +21,4 @@ class Skills:
     languages = ['HTML', 'CSS', 'PHP', 'JavaScript']
     frameworks = ['React', 'Symfony', 'Bootstrap']
     databases = ['MySQL', 'MongoDB']
-    misc = ['Docker','lando']
-
-
+    misc = ['Docker','lando']```
