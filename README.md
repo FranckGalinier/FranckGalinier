@@ -3,8 +3,8 @@
 Je suis un développeur passionné par la technologie et toujours prêt à apprendre de nouvelles choses. J'ai une expérience en développement web, mobile.
 
 - 🔭 Je suis actuellement en formation à l'IDEM en tant que développeur web et web mobile.
-- 🌱 J'apprends actuellement à créer un site de dépannage informatique avec Symfony/Docker.
-- 💬 Demandez-moi n'importe quoi sur PHP.
+- 🌱 J'apprends actuellement le C++.
+- 💬 Je suis sur un projet de site pour créer son carnet de voyage en ligne.
 - 📫 Comment me joindre: fgalinier51@gmail.com
 - ⚡ Fun fact: J'aime le café ☕ et le tennis .
 - 🌐 Ma page web : https://franckgalinier.com
