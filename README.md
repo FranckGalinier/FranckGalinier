@@ -4,9 +4,8 @@ Je suis un développeur passionné par la technologie et toujours prêt à appre
 
 - 🔭 Je suis actuellement en formation à l'IDEM en tant que développeur web et web mobile.
 - 🌱 J'apprends actuellement le C++.
-- 💬 Je suis sur un projet de site pour créer son carnet de voyage en ligne.
-- 📫 Comment me joindre: fgalinier51@gmail.com
-- ⚡ Fun fact: J'aime le café ☕ et le tennis .
+- 📫 Comment me joindre: franckprodev@gmail.com
+- ⚡ Fun fact: J'aime le café ☕ et le tennis
 - 🌐 Ma page web : https://franckgalinier.com
 
 Voici les diffèrentes outils que j'utilise :
