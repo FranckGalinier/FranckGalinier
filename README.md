@@ -3,10 +3,9 @@
 Je suis un développeur passionné par la technologie et toujours prêt à apprendre de nouvelles choses. J'ai une expérience en développement web, mobile.
 
 - 🔭 Je suis actuellement en formation à l'IDEM en tant que Concepteur Développeur d'Applicaiton.
-- 🌱 J'apprends actuellement le C++.
 - 📫 Comment me joindre: franck.prodev@gmail.com
 - ⚡ Fun fact: J'aime le café ☕ et le tennis
-- 🌐 Ma page web : https://franckgalinier.com
+- 🌐 Ma page web : (soon)
 
 Voici les diffèrentes outils que j'utilise :
   
